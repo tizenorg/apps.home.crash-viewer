@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Barchasi o'chirish"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Fayllar yo‘q"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Xato tahlilchisi"
+

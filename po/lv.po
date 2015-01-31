@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Dzēst visu"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Nav failu"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Avāriju skatītājs"
+

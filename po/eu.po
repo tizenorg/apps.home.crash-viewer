@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Dena(k) ezabatu"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Fitxategirik ez"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Crash bisorea"
+

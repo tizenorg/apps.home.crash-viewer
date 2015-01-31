@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Poista kaikki"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Ei tiedostoja"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Kaatumisten katseluohjelma"
+

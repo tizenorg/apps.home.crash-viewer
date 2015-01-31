@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Избриши сè"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Нема фајлови"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Прегледник на паѓања"
+
