@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Видалити всі"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Немає файлів"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Програма перегляду помилок"
+

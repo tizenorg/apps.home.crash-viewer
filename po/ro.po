@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Ştergere toate"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Nu există fişiere"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Vizualizare erori"
+

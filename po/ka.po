@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "ყველას წაშლა"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "ფაილები არ არის"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "ხარვეზების დამთვალიერებელი"
+

@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Eliminar tudo"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Sem ficheiros"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Visualizador de falhas"
+

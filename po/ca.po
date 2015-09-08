@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Esborrar-ho tot"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Cap fitxer"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Visor d'errors"
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.crash-viewer" version="0.1.0" install-location="internal-only">
+	<label>Crash viewer</label>
+	<author email="juho80.son@samsung.com" href="www.samsung.com">Juho Son</author>
+	<description>Crash viewer Application</description>
+	<ui-application appid="org.tizen.crash-viewer" exec="/usr/apps/org.tizen.crash-viewer/bin/crash-viewer" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>Crash viewer</label>
+	</ui-application>
+</manifest>

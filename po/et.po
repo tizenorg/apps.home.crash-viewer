@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Kustuta kõik"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Faile pole"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Krahhivaatur"
+

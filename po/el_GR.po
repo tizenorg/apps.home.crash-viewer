@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Διαγραφή όλων"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Δεν βρέθηκαν αρχεία"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Πρόγραμμα προβολής σφαλμάτων"
+

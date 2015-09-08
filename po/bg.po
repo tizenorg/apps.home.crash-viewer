@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Изтриване на всички"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Няма файлове"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "Преглед на неизправностите"
+

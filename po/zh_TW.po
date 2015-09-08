@@ -1,0 +1,9 @@
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "全部刪除"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "無檔案"
+
+msgid "IDS_ST_BODY_CRASH_VIEWER"
+msgstr "故障檢視器"
+
