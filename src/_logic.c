@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include <efl_assist.h>
+#include <efl_extension.h>
 #include "crash-viewer.h"
 #include "_util_log.h"
 #include "_util_efl.h"
@@ -58,7 +58,7 @@ int _app_create(struct appdata *ad)
 	ad->nv = _add_naviframe(ad->layout_main);
 	retvm_if(ad->nv == NULL, -1, "Failed to add naviframe\n");
 
-	ea_object_event_callback_add(ad->nv, EA_CALLBACK_BACK, ea_naviframe_back_cb, NULL);
+	eext_object_event_callback_add(ad->nv, EEXT_CALLBACK_BACK, eext_naviframe_back_cb, NULL);
 
 	ad->gl = _add_genlist(ad->nv);
 	retvm_if(ad->gl == NULL, -1, "Failed to add genlist\n");

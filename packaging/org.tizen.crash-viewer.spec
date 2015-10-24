@@ -19,7 +19,7 @@ BuildRequires:  pkgconfig(utilX)
 BuildRequires:  pkgconfig(eina)
 BuildRequires:  pkgconfig(libcurl)
 BuildRequires:  pkgconfig(iniparser)
-BuildRequires:  pkgconfig(efl-assist)
+BuildRequires:  pkgconfig(efl-extension)
 BuildRequires:  cmake
 BuildRequires:  edje-tools
 BuildRequires:  gettext-devel
@@ -43,7 +43,7 @@ make %{?jobs:-j%jobs}
 rm -rf %{buildroot}
 %make_install
 mkdir -p %{buildroot}/usr/share/license
-cp LICENSE %{buildroot}/usr/share/license/%{name}
+cp LICENSE.APLv2 %{buildroot}/usr/share/license/%{name}
 
 %post
 

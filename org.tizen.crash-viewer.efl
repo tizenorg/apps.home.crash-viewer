@@ -2,7 +2,6 @@ org.tizen.crash-viewer device::app_logging -w---- ------
 org.tizen.app-tray org.tizen.crash-viewer r-x--- ------
 org.tizen.setting org.tizen.crash-viewer rwxat- ------
 org.tizen.crash-viewer dali rwxat- ------
-org.tizen.crash-viewer ail::db rw---- ------
 org.tizen.crash-viewer system::use_internet r----- ------
 org.tizen.crash-viewer xorg rw---- ------
 org.tizen.crash-viewer isf rwx--- ------
@@ -12,11 +11,9 @@ org.tizen.crash-viewer crash-worker rw---- ------
 org.tizen.crash-viewer sound_server rw---- ------
 org.tizen.crash-viewer svi-data r-x--- ------
 org.tizen.crash-viewer efreet --x--- ------
-org.tizen.crash-viewer ug-setting-call-efl::vconf r----- ------
 org.tizen.crash-viewer dbus r----- ------
 org.tizen.crash-viewer stest-service -w---- ------
 org.tizen.crash-viewer system::homedir rwxat- ------
-org.tizen.crash-viewer system::vconf rwxat- ------
 org.tizen.crash-viewer system::media rwxat- ------
 org.tizen.crash-viewer system::share rwxat- ------
 org.tizen.crash-viewer pulseaudio rwxat- ------
@@ -25,11 +22,4 @@ org.tizen.crash-viewer sys-assert::core rwxat- ------
 stest-service org.tizen.crash-viewer r-x--- ------
 org.tizen.crash-viewer privacy-manager::db r----l ------
 org.tizen.crash-viewer pkgmgr::db r----l ------
-org.tizen.crash-viewer system::vconf_inhouse rw---- ------
-org.tizen.crash-viewer system::vconf_setting rw---- ------
-org.tizen.crash-viewer system::vconf_privacy rw---- ------
-org.tizen.crash-viewer system::vconf_system rw---- ------
-org.tizen.crash-viewer system::vconf_multimedia rw---- ------
-org.tizen.crash-viewer system::vconf_network rw---- ------
-org.tizen.crash-viewer system::vconf_misc rw---- ------
 org.tizen.crash-viewer ecore::lock rwxat- ------

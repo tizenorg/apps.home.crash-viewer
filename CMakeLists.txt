@@ -39,7 +39,7 @@ pkg_check_modules(pkgs REQUIRED
 	gthread-2.0
 	vconf
 	iniparser
-	efl-assist
+	efl-extension
 )
 
 FOREACH(flag ${pkgs_CFLAGS})

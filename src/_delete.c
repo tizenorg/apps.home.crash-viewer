@@ -21,7 +21,7 @@
 #include <dirent.h>
 #include <fcntl.h>
 #include <sys/stat.h>
-#include <efl_assist.h>
+#include <efl_extension.h>
 
 #include "crash-viewer.h"
 #include "_list.h"
@@ -135,7 +135,7 @@ void _delete_all_cb(void *data, Evas_Object *obj, void *event_info)
 
 	popup = elm_popup_add(ad->nv);
 	evas_object_size_hint_weight_set(popup, EVAS_HINT_EXPAND, EVAS_HINT_EXPAND);
-	ea_object_event_callback_add(popup, EA_CALLBACK_BACK, ea_popup_back_cb, NULL);
+	eext_object_event_callback_add(popup, EEXT_CALLBACK_BACK, eext_popup_back_cb, NULL);
 	elm_object_part_text_set(popup, "title,text",  STR_DELETE_ALL);
 	elm_object_text_set(popup, STR_DELETE_ALL);
 
